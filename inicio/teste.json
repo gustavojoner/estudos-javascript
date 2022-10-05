@@ -1,0 +1,9 @@
+{ 
+    "nome":"Ananias",
+    "idade":20,
+    "endereco": { 
+        "rua":"Vergueiro",
+        "cidade":"São Paulo" 
+    }, 
+    "telefones": ["91234-5678", "98765-4321"]
+}
