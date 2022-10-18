@@ -13,7 +13,7 @@ let listaMista = [1, "ola", true, [111,222,333], 1.345];
 //primeiro item é 0
 console.log(listaNumero[0]);
 
-//maior que maximo casua erro
+//maior que maximo causa erro
 console.log(listaPalavras[1]);
 
 //lista dentro de lista, mostrando primeiro item da lista dentro dela
